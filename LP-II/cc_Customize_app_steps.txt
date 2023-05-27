@@ -1,0 +1,19 @@
+Customize application using salesforce
+
+https://developer.salesforce.com/signup
+
+Step 1: login
+
+step 2: object manager
+
+step 3: create -> custom objects -> write label name -> save&next
+
+step 4:object manager -> click on created object -> feilds & relationship
+
+step 5: feild & relationship-> new -> data type -> label name -> next-> save.
+
+step 6:setup -> tabs -> new -> select object we created and add tab to it
+
+step 7 :setup -> app -> app manager -> new lightning app -> write app name -> next -> next -> add tabs we created also we can add default tabs -> next -> system administrator -> save and finish
+
+step 8 : app launcher -> type app name -> add fields to object
